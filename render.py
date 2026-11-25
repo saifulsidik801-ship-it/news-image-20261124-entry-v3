@@ -147,7 +147,7 @@ LISTED = [
     (24, "Britain warns Ukraine suppliers on sabotage", "Reuters", "shield", "Europe"),
     (25, "Trump set to hit 16 economies with tariffs", "Reuters", "chart", "Americas"),
     (26, "France to build rare-earth stockpile", "Reuters", "gem", "Europe"),
-    (27, "El Chapo Isidro captured; Mexico to try him", "AP", "gavel", "Americas"),
+    (27, "US paused joint ops with Ecuador", "Reuters", "shield", "Americas"),
     (28, "Army: lead azide must be detonated in Iowa", "Washington Post", "burst", "Americas"),
     (29, "Guterres marks 10 years of Colombia peace deal", "UN", "ribbon", "Americas"),
     (30, "Taiex posts record gain, closes at 40,122", "CNA", "chart", "Asia"),
